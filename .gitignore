@@ -1,5 +1,6 @@
 artifacts/
 cache/
 crytic-export/
-node_modules/
+# Allow node modules to GIT
+# node_modules/
 typechain/
