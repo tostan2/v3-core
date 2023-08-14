@@ -39,20 +39,6 @@ to be eligible for the bug bounty:
 
 Rewards will be allocated based on the severity of the bug disclosed and will be evaluated and rewarded at the discretion of the Uniswap Labs team. For critical bugs that lead to any loss of LP funds, rewards of up to $500,000 will be granted. Lower severity bugs will be rewarded at the discretion of the team. In addition, all vulnerabilities disclosed prior to the mainnet launch date will be subject to receive higher rewards.
 
-## Disclosure
-
-Any vulnerability or bug discovered must be reported only to the following email: [security@uniswap.org](mailto:security@uniswap.org).
-
-The vulnerability must not be disclosed publicly or to any other person, entity or email address before Uniswap Labs has been notified, has fixed the issue, and has granted permission for public disclosure. In addition, disclosure must be made within 24 hours following discovery of the vulnerability.
-
-A detailed report of a vulnerability increases the likelihood of a reward and may increase the reward amount. Please provide as much information about the vulnerability as possible, including:
-
-- The conditions on which reproducing the bug is contingent.
-- The steps needed to reproduce the bug or, preferably, a proof of concept.
-- The potential implications of the vulnerability being abused.
-
-Anyone who reports a unique, previously-unreported vulnerability that results in a change to the code or a configuration change and who keeps such vulnerability confidential until it has been resolved by our engineers will be recognized publicly for their contribution if they so choose.
-
 ## Eligibility
 
 To be eligible for a reward under this Program, you must:
