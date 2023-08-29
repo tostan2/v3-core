@@ -4,3 +4,4 @@ crytic-export/
 # Allow node modules to GIT
 # node_modules/
 typechain/
+.idea/
